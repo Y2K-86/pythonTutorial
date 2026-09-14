@@ -1,0 +1,4 @@
+=== 시스템 등록 사용자 목록 ===
+[일반 사용자] 이름: 홍길동 | 이메일: hong@example.com
+[학생 (학번: 2026001)] 이름: 김철수 | 이메일: chulsoo@example.com
+[교사 (담당 과목: 파이썬 프로그래밍)] 이름: 이영희 | 이메일: younghee@example.com
