@@ -1,0 +1,10 @@
+{
+    "user_id": 1001,
+    "name": "홍길동",
+    "skills": [
+        "Python",
+        "Linux",
+        "Git"
+    ],
+    "is_member": true
+}
