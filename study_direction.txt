@@ -1,0 +1,11 @@
+백엔드/웹 개발
+    -	FastAPI, Django, PostgreSQL, Docker, Redis
+    -	웹 서비스 API 서버, 데이터베이스 연동 시스템
+
+데이터 엔지니어링 / AI
+    -	Pandas, NumPy, PyTorch, Scikit-learn, Airflow
+    -	데이터 분석 리포트, AI 모델, 자동화 데이터 파이프라인
+
+업무 자동화 / 크롤링
+    -	BeautifulSoup4, Selenium, Playwright, Pandas
+    -	웹 데이터 자동 수집기, 엑셀/보고서 자동 생성 프로그램
